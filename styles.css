@@ -1,5 +1,16 @@
-html{
+h1{
+    text-align: center;
+    border: 1px;
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
-    color: aqua;
+    margin: auto;
+    color: brown;
+}
+p{
+    text-align: center;
+    border: 1px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    color: brown;
 }
